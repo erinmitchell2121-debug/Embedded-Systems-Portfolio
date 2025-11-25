@@ -4,4 +4,4 @@ Here you will find a compilation of embedded systems projects that I have contri
 
 Click link below to access the Portfolio Webpage:
 
-https://erinmitchell2121-debug.github.io/-erinmitchell2121-debug-.github.io/
+https://erinmitchell2121-debug.github.io/-erinmitchell2121-debug-.github.io/portfolio.html
